@@ -13,8 +13,8 @@ This Jupyter Notebook demonstrates a machine learning pipeline for detecting tox
 
 1. **Clone the repository**:
     ```sh
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone [<repository-url>](https://github.com/vishwaskotegar/CommentToxicity.git)
+    cd CommentToxicity
     ```
 
 2. **Install required packages**:
